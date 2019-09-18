@@ -1,2 +1,5 @@
 # yellowpages
  
+ ##scrapy crawl yellowpages -a category=plumbing  -a location=ontario -o plumbing-ontario.csv -t csv
+ 
+ 
